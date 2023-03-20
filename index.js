@@ -13,7 +13,7 @@ const result = excelToJson({
         B: 'price',
         C: 'description',
         D: 'currency',
-        E: 'img',
+        E: 'img'
     }
 
 });
